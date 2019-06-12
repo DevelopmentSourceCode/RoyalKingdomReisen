@@ -1,0 +1,9 @@
+name: RoyalReisen
+version: ${project.version}
+main: net.royalreisen.main.RoyalReisen
+api-version: 1.13
+authors: [Ayley]
+commands:
+  setReisepunkt:
+  reisen:
+  delReisepunkt:
